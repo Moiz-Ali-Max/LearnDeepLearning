@@ -103,4 +103,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-⭐ **Star this repository if you found it helpful!** 
+⭐ **Star this repository if you found it helpful!**
